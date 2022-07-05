@@ -2,9 +2,9 @@
   <img src="https://i.ibb.co/CPxTw5r/MD-FARHAAN-logo.png" alt="MD-FARHAAN-logo" border="0" />
 </p>
 
-# Hi I'm Mohammed Farhaan <img src="./Assets/wave.gif" height="40px">
+# Hi I'm Max from Ukraine | FroneEnd Developer<img src="./Assets/wave.gif" height="40px">
 
-A first year CSE undergrad from Chennai with interest in web dev.
+
 
 # Tech Stack
 
