@@ -1,6 +1,6 @@
 
 
-# Hi I'm Max from Ukraine | FroneEnd Developer<img src="./Assets/wave.gif" height="40px">
+# Hi I'm Max from Ukraine | FrontEnd Developer<img src="./Assets/wave.gif" height="40px">
 [My Personal Website](https://imartin-ff.github.io/frontDev/)
 
 
